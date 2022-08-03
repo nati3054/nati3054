@@ -11,7 +11,7 @@
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Node" height="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="Express.js" height="30" widht="40" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge">
-  <img align="right" alt="Nati-pic" height="150" style="border-radius:50px;" src="https://picrew.me/share?cd=HZYqQT2Lh2 #Picrew #AmphyPop_Doll_Maker">
+  <img align="right" alt="Nati-pic" height="150" style="border-radius:50px;" src="https://picrew.me/share?cd=HZYqQT2Lh2">
 </div>
 
    ##

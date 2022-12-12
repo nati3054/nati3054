@@ -6,11 +6,11 @@ Hello I'm Natália Ferreira Fernandes <img src="https://media.giphy.com/media/Uo
 
 
 
-<div display="flex" align="inline-block" >
+
   <a href="https://github.com/nati3054">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nati3054&show_icons=true&theme=dracula">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nati3054&layout=compact&theme=dracula">
-</div>
+
 <div style="display: inline_block" align="center"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">

@@ -1,8 +1,14 @@
-## Oiee! Eu sou a Natália, estudante de programação 😁
 
-<div align="center">
+<h1 align="center">
+<img src="https://media.giphy.com/media/CbTAYNOtGwefC/giphy.gif" width="50">
+Hello I'm Natália Ferreira Fernandes <img src="https://media.giphy.com/media/UoRR2d1b8xs04A2bV8/giphy.gif" width="70">
+</h1>
+
+
+
+<div align="inline">
   <a href="https://github.com/nati3054">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nati3054&show_icons=true&theme=dracula&include_all_commits=true&count_private=true">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nati3054&show_icons=true&theme=dracula">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nati3054&layout=compact&langs_count=7&theme=dracula">
 </div>
 <div style="display: inline_block"><br>

@@ -20,7 +20,8 @@ Hello I'm Natália Ferreira Fernandes <img src="https://media.giphy.com/media/Uo
    <img align="center" alt="Express" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg"/>
    <img align="center" alt="Npm" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg"/>
   <img align="center" alt="MySql" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
-   <img align="center" alt="MySql" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" />
+   <img align="center" alt="Sequelize" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" />
+   <img align="center" alt="Slack" height="80" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original-wordmark.svg" />
   <img align="right"  height="150" style="border-radius:50px;" src="https://media.giphy.com/media/dU5bZwFmWnxDgpMNf3/giphy.gif">
 </div>
 
@@ -30,6 +31,7 @@ Hello I'm Natália Ferreira Fernandes <img src="https://media.giphy.com/media/Uo
   <a href="https://instagram.com/nataliaferreira7441" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:nataliaefernanda3054@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/natalia-ferreira-fernandes-026b85213/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
 
  
   ![Snake animation](https://github.com/nati3054/nati3054/blob/output/github-contribution-grid-snake.svg)

@@ -1,8 +1,6 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff91a4&height=120&section=header"/>
 
-<h1 align="center">
-<img src="https://media.giphy.com/media/CbTAYNOtGwefC/giphy.gif" width="50">
-Hello I'm Natália Ferreira Fernandes <img src="https://media.giphy.com/media/UoRR2d1b8xs04A2bV8/giphy.gif" width="70">
-</h1>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff91a4&size=35&center=true&vCenter=true&width=1000&lines=Hello,+My+Name+is+Natalia+Ferreira+Fernandes;I'm+18+years+old;I'm+from+Brazil;I'm+studying+programming;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 
 

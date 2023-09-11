@@ -35,7 +35,7 @@
   
 
  
-  ![snake animation](https://github.com/nati3054/nati3054/blob/output/github-contribution-grid-snake2.svg)
+![Snake animation](https://github.com/nati3054/nati3054/blob/output/github-contribution-grid-snake.svg)
 
  
 </div>

@@ -23,6 +23,7 @@
    <img align="center" alt="Sequelize" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" />
    <img align="center" alt="Slack" height="80" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original-wordmark.svg" />
    <img align="center" alt="Slack" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
+   <img align="center" alt="Slack" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg"/>
   <img align="right"  height="150" style="border-radius:50px;" src="https://media.giphy.com/media/dU5bZwFmWnxDgpMNf3/giphy.gif">
 </div>
 
